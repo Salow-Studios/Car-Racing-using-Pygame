@@ -1,6 +1,6 @@
 # Car Racing Game using Python Pygame
 
-This code explains on how to create your own Car RAcing Game using the Python Pygame Library.
+This code explains on how to create your own Car Racing Game using the Python Pygame Library.
 Build your own Car Racing Game and experiment it.
 
 ## Youtube Tutorial
